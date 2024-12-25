@@ -10,7 +10,7 @@ const Footer = () => {
         
         {/* GitHub Icon Link */}
         <a 
-          href="https://github.com/your-github-username" // Replace with your GitHub link
+          href="https://github.com/parthdesai24/react-food-cart" // Replace with your GitHub link
           target="_blank" 
           rel="noopener noreferrer"
         >
